@@ -1,0 +1,164 @@
+{
+    "Ashwini": {
+        "pada 1": "Aries",
+        "pada 2": "Aries",
+        "pada 3": "Aries",
+        "pada 4": "Aries"
+    },
+    "Bharani": {
+        "pada 1": "Aries",
+        "pada 2": "Aries",
+        "pada 3": "Aries",
+        "pada 4": "Aries"
+    },
+    "Krittika": {
+        "pada 1": "Aries",
+        "pada 2": "Taurus",
+        "pada 3": "Taurus",
+        "pada 4": "Taurus"
+    },
+    "Rohini": {
+        "pada 1": "Taurus",
+        "pada 2": "Taurus",
+        "pada 3": "Taurus",
+        "pada 4": "Taurus"
+    },
+    "Mrigashira": {
+        "pada 1": "Taurus",
+        "pada 2": "Taurus",
+        "pada 3": "Gemini",
+        "pada 4": "Gemini"
+    },
+    "Ardra": {
+        "pada 1": "Gemini",
+        "pada 2": "Gemini",
+        "pada 3": "Gemini",
+        "pada 4": "Gemini"
+    },
+    "Punarvasu": {
+        "pada 1": "Gemini",
+        "pada 2": "Gemini",
+        "pada 3": "Gemini",
+        "pada 4": "Cancer"
+    },
+    "Pushya": {
+        "pada 1": "Cancer",
+        "pada 2": "Cancer",
+        "pada 3": "Cancer",
+        "pada 4": "Cancer"
+    },
+    "Ashlesha": {
+        "pada 1": "Cancer",
+        "pada 2": "Cancer",
+        "pada 3": "Cancer",
+        "pada 4": "Cancer"
+    },
+    "Magha": {
+        "pada 1": "Leo",
+        "pada 2": "Leo",
+        "pada 3": "Leo",
+        "pada 4": "Leo"
+    },
+    "Purva Phalguni": {
+        "pada 1": "Leo",
+        "pada 2": "Leo",
+        "pada 3": "Leo",
+        "pada 4": "Leo"
+    },
+    "Uttara Phalguni": {
+        "pada 1": "Leo",
+        "pada 2": "Leo",
+        "pada 3": "Virgo",
+        "pada 4": "Virgo"
+    },
+    "Hasta": {
+        "pada 1": "Virgo",
+        "pada 2": "Virgo",
+        "pada 3": "Virgo",
+        "pada 4": "Virgo"
+    },
+    "Chitra": {
+        "pada 1": "Virgo",
+        "pada 2": "Virgo",
+        "pada 3": "Libra",
+        "pada 4": "Libra"
+    },
+    "Swati": {
+        "pada 1": "Libra",
+        "pada 2": "Libra",
+        "pada 3": "Libra",
+        "pada 4": "Libra"
+    },
+    "Vishakha": {
+        "pada 1": "Libra",
+        "pada 2": "Libra",
+        "pada 3": "Libra",
+        "pada 4": "Scorpio"
+    },
+    "Anuradha": {
+        "pada 1": "Scorpio",
+        "pada 2": "Scorpio",
+        "pada 3": "Scorpio",
+        "pada 4": "Scorpio"
+    },
+    "Jyeshtha": {
+        "pada 1": "Scorpio",
+        "pada 2": "Scorpio",
+        "pada 3": "Scorpio",
+        "pada 4": "Scorpio"
+    },
+    "Mula": {
+        "pada 1": "Sagittarius",
+        "pada 2": "Sagittarius",
+        "pada 3": "Sagittarius",
+        "pada 4": "Sagittarius"
+    },
+    "Purva Ashadha": {
+        "pada 1": "Sagittarius",
+        "pada 2": "Sagittarius",
+        "pada 3": "Sagittarius",
+        "pada 4": "Sagittarius"
+    },
+    "Uttara Ashadha": {
+        "pada 1": "Sagittarius",
+        "pada 2": "Capricorn",
+        "pada 3": "Capricorn",
+        "pada 4": "Capricorn"
+    },
+    "Shravana": {
+        "pada 1": "Capricorn",
+        "pada 2": "Capricorn",
+        "pada 3": "Capricorn",
+        "pada 4": "Capricorn"
+    },
+    "Dhanishta": {
+        "pada 1": "Capricorn",
+        "pada 2": "Capricorn",
+        "pada 3": "Aquarius",
+        "pada 4": "Aquarius"
+    },
+    "Shatabhisha": {
+        "pada 1": "Aquarius",
+        "pada 2": "Aquarius",
+        "pada 3": "Aquarius",
+        "pada 4": "Aquarius"
+    },
+    "Purva Bhadrapada": {
+        "pada 1": "Aquarius",
+        "pada 2": "Aquarius",
+        "pada 3": "Aquarius",
+        "pada 4": "Pisces"
+    },
+    "Uttara Bhadrapada": {
+        "pada 1": "Pisces",
+        "pada 2": "Pisces",
+        "pada 3": "Pisces",
+        "pada 4": "Pisces"
+    },
+    "Revati": {
+        "pada 1": "Pisces",
+        "pada 2": "Pisces",
+        "pada 3": "Pisces",
+        "pada 4": "Pisces"
+    }
+}
