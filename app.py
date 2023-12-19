@@ -8,9 +8,7 @@ st.title('Phani\'s Kundali Matching')
 
 st.header('List Of Nakshatras That are good - All Padas')
 st.write('Ashlesha, Ashwini, Hasta, Krittika, Punarvasu, Revati, Rohini, Shravana, Swati, Uttara Ashadha, Uttara Phalguni')
-
-
-st.header('Purva Bhadrapada : Pada 4 is Also Good')
+st.Write('Purva Bhadrapada : Pada 4 is Also Good')
 
 st.header('Some Good Combinations for Phani')
 st.write(df[df['Nadi']>0][df['Total']>=22])
