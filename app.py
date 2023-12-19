@@ -3,12 +3,15 @@ import streamlit as st
 from detailed_utils import *
 
 df = data_phani_simple()
+df = df.sort_values(['Total','Nakshatra','Pada'],ascending= [False,True,True]).pipe(pipe_reset_index)
+
 
 st.title('Phani\'s Kundali Matching')
 
 st.header('List Of Nakshatras That are good - All Padas')
 st.write('Ashlesha, Ashwini, Hasta, Krittika, Punarvasu, Revati, Rohini, Shravana, Swati, Uttara Ashadha, Uttara Phalguni')
 
+st.subheader('Only A Specific Pada Nakshatra Combination Works')
 st.write('Purva Bhadrapada : Pada 4 is Also Good')
 
 st.header('Some Good Combinations for Phani')
