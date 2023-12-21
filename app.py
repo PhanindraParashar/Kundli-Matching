@@ -41,10 +41,15 @@ df = df[['Rashi','Nakshatra', 'Pada', 'Total',
 st.title('Phani\'s Kundali Matching')
 
 st.header('List Of Nakshatras That are good - All Padas')
-st.write('Ashlesha, Ashwini, Hasta, Krittika, Punarvasu, Revati, Rohini, Shravana, Swati, Uttara Ashadha, Uttara Phalguni')
+st.write('Ashlesha, Ashwini, Hasta, Krittika, Punarvasu, Revati, Rohini, Shravana, Swati, Uttara Ashadha, Uttara Phalguni (Uttara)')
 
 
 st.header('Purva Bhadrapada : Pada 4 is Also Good')
+
+
+st.header('Other Names Of Nakshatras')
+st.write('Uttara Phalguni : Uttara')
+st.write('Purva Phalguni : Pubbha')
 
 st.header('Some Good Combinations for Phani')
 st.write(df[df['Nadi']>0][df['Total']>=22])
